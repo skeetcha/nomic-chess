@@ -1,0 +1,16 @@
+# Table of Contents
+
+* [Rule 1: The All Rules Rule](rule-1.md)
+* [Rule 2: The Unique Rule Rule](rule-2.md)
+* [Rule 3: The Agreement Rule](rule-3.md)
+* [Rule 4: The Anti-Retro Rule](rule-4.md)
+* [Rule 5: The Player List Rule](rule-5.md)
+* [Rule 6: The Board Size Rule](rule-6.md)
+* [Rule 7: The Legal Space Rule](rule-7.md)
+* [Rule 8: The Rook Rule](rule-8.md)
+* [Rule 9: The Knight Rule](rule-9.md)
+* [Rule 10: The Bishop Rule](rule-10.md)
+* [Rule 11: The Queen Rule](rule-11.md)
+* [Rule 12: The King Rule](rule-12.md)
+* [Rule 13: The Castling Rule](rule-13.md)
+* [Rule 14: The Pawn Rule](rule-14.md)
