@@ -1,0 +1,3 @@
+# Rule 112: The Unchangeable Win Condition Rule
+
+The state of affairs that constitutes winning may not be altered from eliminating all other players from the game to any other state of affairs. The rules for determining how a player is eliminated from the game may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
